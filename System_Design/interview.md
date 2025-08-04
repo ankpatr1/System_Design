@@ -3,9 +3,9 @@
 
 ##  3P’S : ##  
 
-Don’t repeat stories 
-Share trade-off 
-Be a good storyteller 
+* Don’t repeat stories 
+* Share trade-off 
+* Be a good storyteller 
 
 ### Amazon
 —-----------—----------
